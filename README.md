@@ -1,4 +1,4 @@
-# Smart Meter Data Analytics
+# Smart Meter Data Analysis
 Home energy usages prediction based on machine learning and smart meter data.
 This Notebook includes-
 1. Data Exploration and visualization
